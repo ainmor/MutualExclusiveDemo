@@ -1,0 +1,13 @@
+# ninja log v5
+1	696	6993460488101044	CMakeFiles/DataRace.dir/main.cpp.obj	2ab81aaecb2e08d1
+698	813	6993460489211407	DataRace.exe	919ed6b83badf5f3
+3	729	6993467256793015	CMakeFiles/DataRace.dir/main.cpp.obj	2ab81aaecb2e08d1
+730	852	6993467257984103	DataRace.exe	919ed6b83badf5f3
+3	714	6993468261775363	CMakeFiles/DataRace.dir/main.cpp.obj	2ab81aaecb2e08d1
+714	840	6993468262991475	DataRace.exe	919ed6b83badf5f3
+3	775	6993469046294227	CMakeFiles/DataRace.dir/main.cpp.obj	2ab81aaecb2e08d1
+775	896	6993469047481805	DataRace.exe	919ed6b83badf5f3
+3	689	6993469626863895	CMakeFiles/DataRace.dir/main.cpp.obj	2ab81aaecb2e08d1
+689	803	6993469627965524	DataRace.exe	919ed6b83badf5f3
+3	771	6993470898077779	CMakeFiles/DataRace.dir/main.cpp.obj	2ab81aaecb2e08d1
+772	897	6993470899286763	DataRace.exe	919ed6b83badf5f3
